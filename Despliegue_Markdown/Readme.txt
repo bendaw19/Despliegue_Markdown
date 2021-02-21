@@ -112,7 +112,7 @@ Solo queda el 10% de los bosques históricos de Madagascar, los cuales sustentan
 
 Cada invierno, cientos de millones de insectos realizan un viaje de varios miles de kilómetros, a pesar de que cada uno pesa menos que un billete de euro. En uno de los fenómenos más espectaculares del mundo natural, las mariposas monarca migran desde Canadá y el norte de los Estados Unidos a México y California, donde cubren los bosques de pinos en naranja, blanco y negro.
 
-**---**
+---
 
 [![guacamayo.jpg](https://i.postimg.cc/QtTF6mc6/guacamayo.jpg)](https://postimg.cc/2bCjy4cv)
 
