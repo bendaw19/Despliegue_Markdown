@@ -3,7 +3,7 @@
 ### Proyecto de Web sobre Animales en Peligro en Extinción
 Este poyecto es una web sobre animales en extinción. Fuente National Geographic
 
-###Sitios de mi Web
+### Sitios de mi Web
 - Inicio
 - Animales en Peligro
 - ¿Cómo evitar la extinción de especies?
