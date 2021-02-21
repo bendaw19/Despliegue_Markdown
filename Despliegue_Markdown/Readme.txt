@@ -1,7 +1,7 @@
 ### Proyecto de Web sobre Animales en Peligro en Extinción
 Este poyecto es una web sobre animales en extinción. Fuente National Geographic
 
-###Sitios de mi Web
+### Sitios de mi Web
 - Inicio
 - Animales en Peligro
 - ¿Cómo evitar la extinción de especies?
@@ -22,11 +22,11 @@ Desde que la vida surgió en la Tierra, su fauna se ha transformado en muchas oc
 
 **¿Cuántos animales están en peligro de extinción?**
 
-**------------**
+---
 Según datos de la Unión Internacional para la Conservación de la Naturaleza, el organismo internacional con mayor potestad sobre el problema, aproximadamente 5.200 especies de animales se encuentran en peligro de extinción en la actualidad. Además, en un desglose por clase, se encuentran en peligro de extinción el 11% de las aves, el 20% de los reptiles, el 34% de los peces y 25% de los anfibios y mamíferos.
 
 **Algunas de las especies amenazadas en todo el planeta:**
-**------------**
+---
 
 1. [Gorila de Montaña](https://es.wikipedia.org/wiki/Gorilla_beringei_beringei)
 2. [Oso Polar](https://es.wikipedia.org/wiki/Ursus_maritimus)
@@ -42,7 +42,8 @@ Según datos de la Unión Internacional para la Conservación de la Naturaleza, 
 12. [Atún rojo](https://es.wikipedia.org/wiki/Thunnus_thynnus)
 
 **Noticias Destacadas:**
-**-----------**
+---
+
 [El cazador que mató un lince con crías dice que lo confundió con un zorro](https://elpais.com/sociedad/2019/11/21/actualidad/1574352499_222302.html)
 
 [La emergencia climática, según Malagón](https://elpais.com/elpais/2019/11/14/ideas/1573756539_312423.html)
@@ -64,7 +65,7 @@ Si quieres saber más: [National Geographic](https://www.nationalgeographic.com.
 # Animales en Peligro de Extinción
 
 **Animales en peligro de extinción en España**
-**----**
+---
 Lamentablemente, hoy en día son muchas las especies en peligro de extinción. Muchas de ellas, debido a la acción del hombre y el cambio climático global, lo que resulta igualmente un efecto indirecto de las actividades del ser humano. Algunas de estas especies en peligro ya están condenadas a desaparecer de aquí a unos años y, aunque hay muchas organizaciones que trabajan por preservarlas, día a día siguen sufriendo.
 
 Esta es una lista de los animales con más riesgo de desaparecer:
@@ -93,18 +94,18 @@ Si quieres saber más: [National Geographic](https://www.nationalgeographic.com.
 # Animales en Peligro de Extinción
 
 **Causas de que los estén en peligro**
-**---**
+---
 Existen múltiples causas por las que una especie puede llegar a encontrarse al borde de la extinción. Las razones pueden resultar tremendamente particulares para cada especie, pero en líneas generales, entre las mayores amenazas se encuentra la destrucción y fragmentanción de sus hábitats; el cambio climático; la caza y tráfico ilegal; y la introducción de especies exóticas.
 
 **Ejemplos de animales en peligro de extinción y su causa:**
-**---**
+---
 [![foto.jpg](https://i.postimg.cc/hjzdkcR1/foto.jpg)](https://postimg.cc/Hcmn5Gxr)
 
 **Lemur**
 
 Solo queda el 10% de los bosques históricos de Madagascar, los cuales sustentan a estos lémures en peligro crítico. Con una gran pasión por el néctar, se cree que los lémures son los polinizadores más grandes del mundo. A diferencia de la mayoría de los primates, dan a luz a grandes camadas, por lo que prosperan en cautiverio, donde las tasas de supervivencia son altas. Pero debido a que han sido criados a partir de un grupo genético muy pequeño, las reintroducciones posteriores entrañan muchas complicaciones. Su conservación se logrará cuando simplemente los dejemos en paz en un dosel de selva virgen.
 
-**---**
+---
 [![insectos.jpg](https://i.postimg.cc/fTj9n8pp/insectos.jpg)](https://postimg.cc/3dNR2FKF)
 
 **Insectos**
