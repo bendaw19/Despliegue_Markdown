@@ -24,7 +24,7 @@ Desde que la vida surgió en la Tierra, su fauna se ha transformado en muchas oc
 
 **¿Cuántos animales están en peligro de extinción?**
 
-**---**
+---
 Según datos de la Unión Internacional para la Conservación de la Naturaleza, el organismo internacional con mayor potestad sobre el problema, aproximadamente 5.200 especies de animales se encuentran en peligro de extinción en la actualidad. Además, en un desglose por clase, se encuentran en peligro de extinción el 11% de las aves, el 20% de los reptiles, el 34% de los peces y 25% de los anfibios y mamíferos.
 
 **Algunas de las especies amenazadas en todo el planeta:**
